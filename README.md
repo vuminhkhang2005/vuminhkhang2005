@@ -5,6 +5,9 @@
 <a href="mailto:23110238@student.hcmute.edu.vn">
   <img src="https://img.shields.io/badge/Email-23110238%40student.hcmute.edu.vn-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="mailto:khangminhvu97@gmail.com">
+  <img src="https://img.shields.io/badge/Email-khangminhvu97%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://github.com/vuminhkhang2005">
   <img src="https://img.shields.io/badge/GitHub-vuminhkhang2005-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
