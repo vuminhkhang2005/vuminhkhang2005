@@ -2,9 +2,6 @@
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:14B8A6&text=Vu%20Minh%20Khang&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&animation=fadeIn)
 
-<a href="mailto:23110238@student.hcmute.edu.vn">
-  <img src="https://img.shields.io/badge/Email-23110238%40student.hcmute.edu.vn-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="mailto:khangminhvu97@gmail.com">
   <img src="https://img.shields.io/badge/Email-khangminhvu97%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
