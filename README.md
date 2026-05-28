@@ -67,20 +67,20 @@ I am a software engineering student in Vietnam, focused on building practical fu
       <h3><a href="https://github.com/vuminhkhang2005/HRM_Project">Human Resource Management System</a></h3>
       <p><strong>Spring Boot HRM platform</strong> for employee, department, attendance, leave request, payroll, performance review, notification, role-based security, and database-backed workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F97316" alt="Java" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-0F172A?style=flat-square&logo=springboot&logoColor=22C55E" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Security-0F172A?style=flat-square&logo=springsecurity&logoColor=22C55E" alt="Spring Security" />
-        <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-0F172A?style=flat-square" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Security-0F172A?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square" alt="MySQL" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/vuminhkhang2005/CCNPMM_BTCaNhan">RunGear Store</a></h3>
       <p><strong>Full-stack e-commerce storefront</strong> with product browsing, authentication, cart, checkout, order tracking, admin order management, and MongoDB/in-memory fallback behavior.</p>
       <p>
-        <img src="https://img.shields.io/badge/Frontend-React-0F172A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=111827" alt="React frontend" />
-        <img src="https://img.shields.io/badge/API-Express-0F172A?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=111827" alt="Express API" />
-        <img src="https://img.shields.io/badge/Database-MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=111827" alt="MongoDB database" />
-        <img src="https://img.shields.io/badge/Pattern-REST-0F172A?style=flat-square&logo=swagger&logoColor=85EA2D&labelColor=111827" alt="REST pattern" />
+        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square" alt="React" />
+        <img src="https://img.shields.io/badge/Express.js-0F172A?style=flat-square" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square" alt="REST API" />
       </p>
     </td>
   </tr>
@@ -90,7 +90,7 @@ I am a software engineering student in Vietnam, focused on building practical fu
       <p><strong>ERP-style RESTful API</strong> for customer, sales order, and order detail management using ASP.NET Core Web API, SQL Server, ADO.NET, and stored procedures.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-0F172A?style=flat-square" alt="C#" />
-        <img src="https://img.shields.io/badge/ASP.NET%20Core-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-0F172A?style=flat-square" alt="ASP.NET Core" />
         <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square" alt="SQL Server" />
       </p>
     </td>
@@ -98,9 +98,9 @@ I am a software engineering student in Vietnam, focused on building practical fu
       <h3><a href="https://github.com/vuminhkhang2005/Personal_ERPWebsite">Personal ERP Website</a></h3>
       <p><strong>ASP.NET Core MVC application</strong> for customer and sales order management, with controller-based routing, Razor views, Bootstrap UI, and environment-based configuration.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET%20MVC-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET MVC" />
-        <img src="https://img.shields.io/badge/Razor-0F172A?style=flat-square&logo=razorpay&logoColor=38BDF8" alt="Razor" />
-        <img src="https://img.shields.io/badge/Bootstrap-0F172A?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/ASP.NET%20MVC-0F172A?style=flat-square" alt="ASP.NET MVC" />
+        <img src="https://img.shields.io/badge/Razor-0F172A?style=flat-square" alt="Razor" />
+        <img src="https://img.shields.io/badge/Bootstrap-0F172A?style=flat-square" alt="Bootstrap" />
       </p>
     </td>
   </tr>
