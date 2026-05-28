@@ -46,50 +46,29 @@ I am a software engineering student in Vietnam who enjoys building practical, us
 <table>
   <tr>
     <td width="50%">
-      <h3>RunGear Store</h3>
-      <p>Full-stack e-commerce storefront built with React, Express.js, and MongoDB. Includes authentication, cart, checkout flow, order tracking, admin order management, and database fallback behavior.</p>
-      <a href="https://github.com/vuminhkhang2005/CCNPMM_BTCaNhan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vuminhkhang2005&repo=CCNPMM_BTCaNhan&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="CCNPMM_BTCaNhan" />
-      </a>
+      <h3><a href="https://github.com/vuminhkhang2005/HRM_Project">Human Resource Management System</a></h3>
+      <p>Spring Boot HRM platform with employee, department, attendance, leave request, payroll, performance review, notification, role-based security, and database-backed business workflows.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>MySQL</code> <code>HTML/CSS/JS</code></p>
     </td>
     <td width="50%">
-      <h3>ERP Website API</h3>
-      <p>RESTful API for ERP-style customer, sales order, and order detail management, built with ASP.NET Core Web API, C#, SQL Server, ADO.NET, and stored procedures.</p>
-      <a href="https://github.com/vuminhkhang2005/API_ERPWebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vuminhkhang2005&repo=API_ERPWebsite&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="API_ERPWebsite" />
-      </a>
+      <h3><a href="https://github.com/vuminhkhang2005/CCNPMM_BTCaNhan">RunGear Store</a></h3>
+      <p>Full-stack e-commerce storefront with product browsing, authentication, cart, checkout, order tracking, admin order management, and MongoDB/in-memory fallback behavior.</p>
+      <p><code>React</code> <code>Express.js</code> <code>MongoDB</code> <code>Node.js</code> <code>REST API</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Portfolio Web Application</h3>
-      <p>Responsive personal portfolio application using Java, Spring Boot, JPA, MySQL, HTML, CSS, and JavaScript, with dynamic project data served from a database.</p>
-      <a href="https://github.com/vuminhkhang2005/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vuminhkhang2005&repo=Portfolio&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="Portfolio" />
-      </a>
+      <h3><a href="https://github.com/vuminhkhang2005/API_ERPWebsite">ERP Website API</a></h3>
+      <p>RESTful API for ERP-style customer, sales order, and order detail management using ASP.NET Core Web API, SQL Server, ADO.NET, and stored procedures.</p>
+      <p><code>C#</code> <code>ASP.NET Core Web API</code> <code>SQL Server</code> <code>ADO.NET</code></p>
     </td>
     <td width="50%">
-      <h3>ePharmacity</h3>
-      <p>Web application project focused on practical product workflows, interface structure, and maintainable project organization for a pharmacy-style system.</p>
-      <a href="https://github.com/vuminhkhang2005/ePharmacity-main">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vuminhkhang2005&repo=ePharmacity-main&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="ePharmacity-main" />
-      </a>
+      <h3><a href="https://github.com/vuminhkhang2005/Personal_ERPWebsite">Personal ERP Website</a></h3>
+      <p>ASP.NET Core MVC web application for customer and sales order management, with controller-based routing, Razor views, Bootstrap UI, and environment-based configuration.</p>
+      <p><code>C#</code> <code>ASP.NET Core MVC</code> <code>Razor</code> <code>Bootstrap</code></p>
     </td>
   </tr>
 </table>
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vuminhkhang2005&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuminhkhang2005&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=vuminhkhang2005&theme=transparent&hide_border=true&ring=2563EB&fire=F97316&currStreakLabel=0F172A&sideLabels=334155&currStreakNum=2563EB&sideNums=2563EB" alt="GitHub streak" />
-
-</div>
 
 ## What I Am Building Toward
 
