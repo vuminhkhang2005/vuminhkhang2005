@@ -46,12 +46,14 @@ I am a software engineering student in Vietnam, focused on building practical fu
 
 ![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=22C55E)
+![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0F172A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
 
@@ -87,7 +89,9 @@ I am a software engineering student in Vietnam, focused on building practical fu
       <h3><a href="https://github.com/vuminhkhang2005/API_ERPWebsite">ERP Website API</a></h3>
       <p><strong>ERP-style RESTful API</strong> for customer, sales order, and order detail management using ASP.NET Core Web API, SQL Server, ADO.NET, and stored procedures.</p>
       <p>
+        <img src="https://img.shields.io/badge/C%23-0F172A?style=flat-square" alt="C#" />
         <img src="https://img.shields.io/badge/ASP.NET%20Core-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square" alt="SQL Server" />
       </p>
     </td>
     <td width="50%" valign="top">
