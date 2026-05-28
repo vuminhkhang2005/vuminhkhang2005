@@ -87,7 +87,7 @@ I am a software engineering student in Vietnam, focused on building practical fu
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/vuminhkhang2005/API_ERPWebsite">ERP Website API</a></h3>
-      <p><strong>ERP-style RESTful API</strong> for customer, sales order, and order detail management using ASP.NET Core Web API, SQL Server, ADO.NET, and stored procedures.</p>
+      <p><strong>ERP-style RESTful API</strong> for customer, sales order, and order detail management using ASP.NET Core Web API, SQL Server, ADO.NET, stored procedures and triggers.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-0F172A?style=flat-square" alt="C#" />
         <img src="https://img.shields.io/badge/ASP.NET%20Core-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
