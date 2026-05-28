@@ -77,10 +77,10 @@ I am a software engineering student in Vietnam, focused on building practical fu
       <h3><a href="https://github.com/vuminhkhang2005/CCNPMM_BTCaNhan">RunGear Store</a></h3>
       <p><strong>Full-stack e-commerce storefront</strong> with product browsing, authentication, cart, checkout, order tracking, admin order management, and MongoDB/in-memory fallback behavior.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Express.js-0F172A?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
-        <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square" alt="REST API" />
+        <img src="https://img.shields.io/badge/Frontend-React-0F172A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=111827" alt="React frontend" />
+        <img src="https://img.shields.io/badge/API-Express-0F172A?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=111827" alt="Express API" />
+        <img src="https://img.shields.io/badge/Database-MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=111827" alt="MongoDB database" />
+        <img src="https://img.shields.io/badge/Pattern-REST-0F172A?style=flat-square&logo=swagger&logoColor=85EA2D&labelColor=111827" alt="REST pattern" />
       </p>
     </td>
   </tr>
